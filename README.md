@@ -9,4 +9,5 @@ Although This game is certainly not completed nor exceptionally polished, the ap
 
 # Key Components
 Application Language: Swift
+
 Creation Date:  5/2/21
